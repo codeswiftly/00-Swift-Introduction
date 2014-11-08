@@ -1,16 +1,16 @@
-00-Swift-Introduction
+Swift Introduction
 =====================
 
 A Swift Introduction To Programming.
 
 ##Overview
 
-This repo is here to help you learn the basics of computer programming. We will learn how to:
+This repo is here to help you learn the basics of computer programming. You will learn how to:
 
 * Begin instructing the computer to perform your commands.
 * Perform basic math operations.
 * Perform basic text manipulation.
-* Organize sets of information.
+* Organize collections of objects.
 
 ##What is Programming and why Swift?
 
